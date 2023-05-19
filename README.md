@@ -1,4 +1,4 @@
-# Windows-FFmpeg-installer
+# Windows FFmpeg installer
 I couldn't find an installer so I made one myself.
 
 One line install script:
