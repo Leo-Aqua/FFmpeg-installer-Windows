@@ -6,7 +6,7 @@ One line install script:
 curl https://raw.githubusercontent.com/Leo-Aqua/Windows-FFMPEG-installer/main/FFmpeg-insataller.bat -o %TEMP%/FFmpeg-insataller.bat -# && powershell Start-Process "%TEMP%\FFmpeg-insataller.bat" -Verb RunAs
 ```
 
-I hope this makes yoour life easier.
+I hope this makes yoour life easier♥️.
 
 > made with code i guess...
 
